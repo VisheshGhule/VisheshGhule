@@ -19,7 +19,7 @@
 
 - ⛷️ I'm currently working with AWS, Git & GitHub, Linux-Ubuntu, Shell
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
-- Ask me about C++
+- Ask me about C++, Open-source, Linux
 
   <details>
   <summary>Something interesting about me! 😄</summary>
