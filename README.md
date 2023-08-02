@@ -15,6 +15,7 @@
 
 - ⛷️ I'm currently working with AWS, Git & GitHub, Linux-Ubuntu, Shell
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+- Ask me about C++
 
   <details>
   <summary>Something interesting about me! 😄</summary>
@@ -37,6 +38,8 @@
   ![My github stats](https://github-readme-stats.vercel.app/api?username=a-patel&show_icons=true)
 -->
 </details>
+
+
 
 ### 📫 How to reach me?
  - Gmail Id: visheshghule2@gmail.com 
