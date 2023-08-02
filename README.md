@@ -20,6 +20,7 @@
 - ⛷️ I'm currently working with AWS, Git & GitHub, Linux-Ubuntu, Shell
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - Ask me about C++, Open-source, Linux
+- How to reach me visheshghule2@gmail.com
 
   <details>
   <summary>Something interesting about me! 😄</summary>
@@ -44,11 +45,6 @@
 </details>
 
 
-
-### 📫 How to reach me?
- - Gmail Id: visheshghule2@gmail.com 
- - Connect with me on **[LinkedIn](https://www.linkedin.com/in/vishesh-ghule/)** 👨🏻‍💻
- - Follow me on **[Twitter](https://twitter.com/VisheshGhule?s=09)**  
 
 <h3 align="center">Connect with me:</h3>
 <br>
