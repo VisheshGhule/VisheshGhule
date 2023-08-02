@@ -41,7 +41,7 @@
 ### 📫 How to reach me?
  - Gmail Id: visheshghule2@gmail.com 
  - Connect with me on **[LinkedIn](https:www.linkedin.com/in/vishesh-ghule)** 👨🏻‍💻
- - Follow me on **[Twitter](https://twitter.com/VisheshGhule?s=09)** 
+ - Follow me on **[Twitter](https://twitter.com/VisheshGhule?s=09)**  
 
 
 
