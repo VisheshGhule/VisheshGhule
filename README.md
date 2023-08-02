@@ -1,0 +1,43 @@
+
+ 
+ # Hi👋🏻 I'm Vishesh Ghule
+
+
+
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=DevOps+Engineer;Software+Developer;Freelancer" />
+
+
+<hr>
+<h2 align="left">About:</h2>
+
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+
+- ⛷️ I'm currently working with AWS, Git & GitHub, Linux-Ubuntu, Shell
+- 📫 How to reach me **visheshghule2@gmail.com**
+- 🏄‍ Actively contributing to various organisations and Open-Source Projects.
+
+  <details>
+  <summary>Something interesting about me! 😄</summary>
+   
+  - No day without code 💻
+  - Probably coding something stupid 🤔
+  - Live and learn - Learning new things every day! ☀️
+
+<!--
+  <img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+-->
+
+<!--
+  <p align="center">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=a-patel"/>
+  </p>
+-->
+
+<!--
+  ![My github stats](https://github-readme-stats.vercel.app/api?username=a-patel&show_icons=true)
+-->
+</details>
+
+
+
