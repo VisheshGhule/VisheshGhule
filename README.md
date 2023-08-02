@@ -14,7 +14,6 @@
 
 
 - ⛷️ I'm currently working with AWS, Git & GitHub, Linux-Ubuntu, Shell
-- 📫 How to reach me **visheshghule2@gmail.com**
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 
   <details>
