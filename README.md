@@ -19,9 +19,9 @@
 
 - ⛷️ I'm currently working with **AWS, Git & GitHub, Linux-Ubuntu, Shell**
 - 🏄‍ Actively contributing to various organisations and **Open-Source** Projects.
-- Ask me about **C++, Open-source, Linux**
-- I’m looking to collaborate on **Backend Development & Open-Source**
-- How to reach me **visheshghule2@gmail.com**
+- 🖥Ask me about **C++, Open-source, Linux**
+- 📂 I’m looking to collaborate on **Backend Development & Open-Source**
+- 🏃How to reach me **visheshghule2@gmail.com**
 
   <details>
   <summary>Something interesting about me! 😄</summary>
