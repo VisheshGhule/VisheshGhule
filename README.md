@@ -6,6 +6,9 @@
 <hr>
 <h3 align="center">A Curious AWS-DevOps Engineer from India</h3>
 
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+
 - 🌱 I’m currently learning **something cool**
 
 - 📝 I regularly write articles on DevOps [https://hashnode.com/@Vishesh0](https://hashnode.com/@Vishesh0)
