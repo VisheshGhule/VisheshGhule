@@ -1,4 +1,3 @@
-<img width=100% src="https://www.vgroupinc.com/sites/vgroupinc.com/files/DevOps.jpg"/>
 
 # Hi👋🏻 I'm Vishesh Ghule
 
