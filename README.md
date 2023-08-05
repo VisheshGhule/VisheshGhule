@@ -24,8 +24,8 @@
 <a href="https://twitter.com/visheshghule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="visheshghule" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/vishesh-ghule/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishesh ghule" height="30" width="40" /></a>
 <a href="https://hashnode.com/@vishesh0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@vishesh0" height="30" width="40" /></a>
-<a href="https://medium.com/vishesh ghule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishesh ghule" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@visheshghule2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@visheshghule2" height="30" width="40" /></a>
+<a href="https://medium.com/vishesh ghule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="vishesh ghule" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/visheshghule2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="visheshghule2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/visheshghule2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="visheshghule2" height="30" width="40" /></a>
 </p>
 
