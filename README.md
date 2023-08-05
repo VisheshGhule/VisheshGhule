@@ -7,7 +7,7 @@
 <h3 align="center">A Curious AWS-DevOps Engineer from India</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif"/>
 
 - 🌱 I’m currently learning **something cool**
 
