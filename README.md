@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on DevOps [https://hashnode.com/@Vishesh0](https://hashnode.com/@Vishesh0)
 
-- 💬 Ask me about **C++,Open-Source,Linux**
+- 💬 Ask me about **AWS,Linux**
 
 - 📫 How to reach me **visheshghule2@gmail.com**
 
