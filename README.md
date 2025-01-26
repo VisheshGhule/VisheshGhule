@@ -57,16 +57,16 @@
 ## 🔗 Let's Connect!
 
 <div align="center">
-  <a href="https://linkedin.com/in/vishesh-ghule" target="_blank" style="margin: 15px;">
+  <a href="https://linkedin.com/in/vishesh-ghule" target="_blank" style="margin: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://twitter.com/VisheshGhule" target="_blank" style="margin: 15px;">
+  <a href="https://twitter.com/VisheshGhule" target="_blank" style="margin: 25px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
   </a>
-  <a href="https://hashnode.com/@Vishesh0" target="_blank" style="margin: 15px;">
+  <a href="https://hashnode.com/@Vishesh0" target="_blank" style="margin: 25px;">
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1611902473383/CDyAuTy75.png" alt="Hashnode" width="40" height="40" />
   </a>
-  <a href="mailto:visheshghule2@gmail.com" target="_blank" style="margin: 15px;">
+  <a href="mailto:visheshghule2@gmail.com" target="_blank" style="margin: 25px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Gmail" width="40" height="40" />
   </a>
 </div>
