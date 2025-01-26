@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vishesh Ghule</h1>
 <h3 align="center">🚀 A Curious AWS-DevOps Engineer from India</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&width=750&lines=Passionate+about+DevOps%2C+AWS%2C!;Continuous+Learner+%7C+Cloud+Enthusiast" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&width=750&lines=Passionate+about+DevOps%2C+AWS%2C!;Continuous+Learner+%7C+Cloud+Enthusiast"/>
+</div>
 
 
 
