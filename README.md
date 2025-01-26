@@ -2,7 +2,7 @@
 <h3 align="center">🚀 A Curious AWS-DevOps Engineer from India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=blue&width=750&lines=Passionate+about+DevOps%2C+AWS%2C+and+Linux!;Continuous+Learner+%7C+Cloud+Enthusiast;Building+Scalable+and+Reliable+Infrastructure">
+<img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=DevOps+Engineer;Cloud+Enthusiast+%7C+Continuous+Learner!"/>
 </p>
 
 
