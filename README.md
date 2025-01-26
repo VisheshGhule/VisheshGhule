@@ -58,19 +58,18 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/vishesh-ghule" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
   </a>
   <a href="https://twitter.com/VisheshGhule" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40" />
   </a>
   <a href="https://hashnode.com/@Vishesh0" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" width="40" height="40" />
   </a>
   <a href="mailto:visheshghule2@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40" />
   </a>
 </div>
-
 
 ---
 
