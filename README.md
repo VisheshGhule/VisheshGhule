@@ -26,13 +26,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VisheshGhule&show_icons=true&theme=radical&count_private=true&hide=stars" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VisheshGhule&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshGhule&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=VisheshGhule&show_icons=true&theme=radical&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://streak-stats.demolab.com?user=VisheshGhule&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 </p>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VisheshGhule&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
 
 ---
 
